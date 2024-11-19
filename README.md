@@ -19,7 +19,7 @@ This repository contains the complete user interface (UI) source code for a [Fiv
 	 - Promote
 	 - Bonus
 	 - Statistics
-	 - CSV export
+	 - CSV export (See [Moozdzn/dashboard-routes](https://github.com/Moozdzn/dashboard-routes))
 - Outfits
 - Dynamic role permissions
 - Logs
